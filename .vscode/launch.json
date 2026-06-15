@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "app1",
+            "request": "launch",
+            "mainClass": "app1",
+            "projectName": "SantanderJava_bb47ceab"
+        },
+        {
+            "type": "java",
             "name": "App",
             "request": "launch",
             "mainClass": "App",
