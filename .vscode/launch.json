@@ -6,6 +6,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ex3",
+            "request": "launch",
+            "mainClass": "ex3",
+            "projectName": "SantanderJava_bb47ceab"
+        },
+        {
+            "type": "java",
+            "name": "ex2",
+            "request": "launch",
+            "mainClass": "ex2",
+            "projectName": "SantanderJava_bb47ceab"
+        },
+        {
+            "type": "java",
+            "name": "ex1",
+            "request": "launch",
+            "mainClass": "ex1",
+            "projectName": "SantanderJava_bb47ceab"
+        },
+        {
+            "type": "java",
+            "name": "Ex",
+            "request": "launch",
+            "mainClass": "Ex",
+            "projectName": "SantanderJava_bb47ceab"
+        },
+        {
+            "type": "java",
+            "name": "ex",
+            "request": "launch",
+            "mainClass": "ex",
+            "projectName": "SantanderJava_bb47ceab"
+        },
+        {
+            "type": "java",
+            "name": "app2",
+            "request": "launch",
+            "mainClass": "app2",
+            "projectName": "SantanderJava_bb47ceab"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "SantanderJava_bb47ceab"
+        },
+        {
+            "type": "java",
             "name": "app1",
             "request": "launch",
             "mainClass": "app1",
