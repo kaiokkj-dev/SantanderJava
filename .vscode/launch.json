@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ex5",
+            "request": "launch",
+            "mainClass": "ex5",
+            "projectName": "SantanderJava_bb47ceab"
+        },
+        {
+            "type": "java",
+            "name": "app4",
+            "request": "launch",
+            "mainClass": "app4",
+            "projectName": "SantanderJava_bb47ceab"
+        },
+        {
+            "type": "java",
             "name": "app3",
             "request": "launch",
             "mainClass": "app3",
