@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Brasileirao",
+            "request": "launch",
+            "mainClass": "Brasileirao",
+            "projectName": "SantanderJava_25a3a3ad"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "SantanderJava_25a3a3ad"
+        },
+        {
+            "type": "java",
+            "name": "ex6",
+            "request": "launch",
+            "mainClass": "ex6",
+            "projectName": "SantanderJava_25a3a3ad"
+        },
+        {
+            "type": "java",
             "name": "ex5",
             "request": "launch",
             "mainClass": "ex5",
