@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Minhaconta",
+            "request": "launch",
+            "mainClass": "Minhaconta",
+            "projectName": "SantanderJava_25a3a3ad"
+        },
+        {
+            "type": "java",
             "name": "Brasileirao",
             "request": "launch",
             "mainClass": "Brasileirao",
