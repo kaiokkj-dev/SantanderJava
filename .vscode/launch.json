@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DirigirCarro",
+            "request": "launch",
+            "mainClass": "DirigirCarro",
+            "projectName": "SantanderJava_25a3a3ad"
+        },
+        {
+            "type": "java",
             "name": "Minhaconta",
             "request": "launch",
             "mainClass": "Minhaconta",
