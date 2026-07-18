@@ -1,3 +1,5 @@
+package maquinabanho;
+
 public class MaquinaBanho {
     private int agua;
     private int shampoo;

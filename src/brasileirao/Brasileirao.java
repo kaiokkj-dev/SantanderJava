@@ -1,3 +1,5 @@
+package brasileirao;
+
 class Brasileirao {
     public static void main(String[] args) {
         Times time1 = new Times("Palmeiras");

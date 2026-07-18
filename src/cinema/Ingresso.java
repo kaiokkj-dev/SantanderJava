@@ -1,3 +1,5 @@
+package cinema;
+
 public abstract class Ingresso {
     
     protected double valor;

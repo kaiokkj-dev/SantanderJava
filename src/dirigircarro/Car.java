@@ -1,3 +1,5 @@
+package dirigircarro;
+
 public class Car {
 
     private boolean ligado;

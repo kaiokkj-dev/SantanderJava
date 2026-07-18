@@ -1,3 +1,5 @@
+package dirigircarro;
+
 import java.util.Scanner;
 public class DirigirCarro {
     public static void main(String[] args) {

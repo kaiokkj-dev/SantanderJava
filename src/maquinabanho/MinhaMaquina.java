@@ -1,3 +1,5 @@
+package maquinabanho;
+
 import java.util.Scanner;
 
 public class MinhaMaquina {

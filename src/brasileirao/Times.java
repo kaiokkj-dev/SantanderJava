@@ -1,3 +1,5 @@
+package brasileirao;
+
 public class Times{
 
     private String nome;
