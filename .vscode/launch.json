@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Cinema",
+            "request": "launch",
+            "mainClass": "Cinema",
+            "projectName": "SantanderJava_25a3a3ad"
+        },
+        {
+            "type": "java",
             "name": "MinhaMaquina",
             "request": "launch",
             "mainClass": "MinhaMaquina",
